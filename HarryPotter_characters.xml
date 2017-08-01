@@ -1,0 +1,106 @@
+<question text = "Is this character a student at Hogwarts?">
+    <answer useranswer = "yes">
+       <question text = "Is this character from Gryffindor House?">
+          <answer useranswer = "yes">
+             <question text = "Does this character play Quidditch?">
+                <answer useranswer = "yes">
+                   <question text = "Is this character the youngest child in the family?">
+                      <answer useranswer = "yes">
+                         <character>Ginny Weasley</character>
+                      </answer>
+                      <answer useranswer = "no">
+                         <character>Ron Weasley</character>
+                      </answer>
+                   </question>
+                </answer>
+                <answer useranswer = "no">
+                   <question text = "Is this character only good at Herbology during the school years?">
+                      <answer useranswer = "yes">
+                         <character>Neville Longbottom</character>
+                      </answer>
+                      <answer useranswer = "no">
+                         <character>Hermione Granger</character>
+                      </answer>
+                   </question>
+                </answer>
+             </question>
+          </answer>
+          <answer useranswer = "no">
+             <question text = "Is this character from Ravenclaw House?">
+                <answer useranswer = "yes">
+                   <question text = "Is this character's patronus a swan?">
+                      <answer useranswer = "yes">
+                         <character>Cho Chang</character>
+                      </answer>
+                      <answer useranswer = "no">
+                         <character>Luna Lovegood</character>
+                      </answer>
+                   </question>
+                </answer>
+                <answer useranswer = "no">
+                   <question text = "Is this character from Hufflepuff House?">
+                      <answer useranswer = "yes">
+                         <character>Cedric Diggory</character>
+                      </answer>
+                      <answer useranswer = "no">
+                         <character>Draco Malfoy</character>
+                      </answer>
+                   </question>
+                </answer>
+             </question>
+          </answer>
+       </question>
+    </answer>
+    <answer useranswer = "no">
+       <question text = "Is this character a professor at Hogwarts?">
+          <answer useranswer = "yes">
+             <question text = "Does this character teach Potions at Hogwarts?">
+                <answer useranswer = "yes">
+                   <question text = "Is this character bald?">
+                      <answer useranswer = "yes">
+                         <character>Horace Slughorn</character>
+                      </answer>
+                      <answer useranswer = "no">
+                         <character>Severus Snape</character>
+                      </answer>
+                   </question>
+                </answer>
+                <answer useranswer = "no">
+                   <question text = "Is this character a headmaster of Hogwarts?">
+                      <answer useranswer = "yes">
+                         <character>Albus Dumbledore</character>
+                      </answer>
+                      <answer useranswer = "no">
+                         <character>Rubeus Hagrid</character>
+                      </answer>
+                   </question>
+                </answer>
+             </question>
+          </answer>
+          <answer useranswer = "no">
+             <question text = "Is this character from the Black family?">
+                <answer useranswer = "yes">
+                   <question text = "Is this character a member of Death Eaters?">
+                      <answer useranswer = "yes">
+                         <character>Bellatrix Lestrange</character>
+                      </answer>
+                      <answer useranswer = "no">
+                         <character>Sirius Black</character>
+                      </answer>
+                   </question>
+                </answer>
+                <answer useranswer = "no">
+                   <question text = "Is this character still alive?">
+                      <answer useranswer = "yes">
+                         <character>Molly Weasley</character>
+                      </answer>
+                      <answer useranswer = "no">
+                         <character>Lily Potter</character>
+                      </answer>
+                   </question>
+                </answer>
+             </question>
+          </answer>
+       </question>
+    </answer>
+</question>
